@@ -10,6 +10,6 @@ Hi, I'm Immanuel 👋! I'm an Electronics and Communication Engineering student 
 
 📫 Let's Connect!
 
-🏗️ GitHub: [https://github.com/Knowledge2Intelligence](https://github.com/immanuels3)
+🏗️ GitHub: https://github.com/immanuels3
 
 💼 LinkedIn: www.linkedin.com/in/immanuel-s-2b537221a
