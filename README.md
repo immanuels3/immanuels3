@@ -7,7 +7,3 @@ Hi, I'm Immanuel 👋! I'm an Electronics and Communication Engineering student 
 🖥 Programming: Python, C/C++, MATLAB
 
 🔌 Hardware: ESP32, STM32
-
-📫 Let's Connect!
-
-💼 LinkedIn: www.linkedin.com/in/immanuel-s-2b537221a
